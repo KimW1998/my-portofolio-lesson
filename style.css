@@ -109,4 +109,8 @@ p {
     display: block;
     text-align: center;
   }
+
+  p {
+    text-align: center;
+  }
 }
