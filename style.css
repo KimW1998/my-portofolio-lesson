@@ -103,3 +103,10 @@ p {
 .text-center {
   text-align: center !important;
 }
+
+@media (max-width: 768px) {
+  .primary-link {
+    display: block;
+    text-align: center;
+  }
+}
